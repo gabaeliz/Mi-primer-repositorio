@@ -1,0 +1,18 @@
+{
+  "name": "mi-primer-repositorio",
+  "version": "1.0.0",
+  "description": "Mi primer repositorio con Node.JS, en el READ.ME encontraras los pasos a seguir para instalación en Windows, Linux y Mac. No dudes en contactarme por cualquier duda. ¡Diviértete! :smiley:",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon scr /index.js"
+  },
+  "author": "Elizabeth Garcia Baeza",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
